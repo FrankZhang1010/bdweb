@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>hello</title>
+</head>
+<body>
+	<h1>网站标题</h1>
+	<ul>
+		<li><a href="#">导航链接1</a></li>
+		<li><a href="#">导航链接2</a></li>
+		<li><a href="#">导航链接3</a></li>
+		<li><a href="#">导航链接4</a></li>
+	</ul>
+	<h2>文章一级标题</h2>
+	<h2>文章二级标题</h2>
+	<span>文章作者</span>&nbsp &nbsp <span>文章发表时间</span>
+	<p>3月1日上午8点半，芜湖无线电<a href="http://baidu.com">管理处</a>联合市国安局、市公安局赶赴中央城商业区，技术人员现场使用多种无线电监测设备进行交叉<br />测向定位，最终确定非法信号来源于附近的乐天玛特超市中央城店。经查，乐天玛特超市中央城店未办理过任何设台用频手续。联合执法队随即进店进行依法检查，检查过程中，超市负责人态度良好，积极配合执法人员行动。当场检查发现30部未经审批报备的无线电发射设备，经执法人员用专用设备现场检测，确定这30部无线电发射设备所用频点与2月28日监听到的非法信号频点吻合。</p>
+	<h1>图片</h1>
+	<img src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png" alt="baidu">
+	<ol>
+		<li>paiming1</li>
+		<li>paiming1</li>
+		<li>paiming1</li>
+	</ol>
+	<p>下面是一个表格，给表格^</p>
+	<table border="1">
+		<tr>
+			<td>234</td>
+			<td>32432</td>
+		</tr>
+		<tr>
+			<td>324</td>
+			<td>234234</td>
+		</tr>
+		<tr>
+			<td>324234</td>
+			<td>342432</td>
+		</tr>
+		<tr>
+			<td>546546</td>
+			<td>45654654</td>
+		</tr>
+	</table>
+	<form>
+		请输入账号：<input type="text" name="user">
+		请输入密码：<input type="password" name="user">
+	</form>
+	<form>
+	 选择城市：
+		<select name="城市">
+		<option value="北京">北京</option>
+		<option value="上海">上海</option>
+		<option value="广州">广州</option>
+		<option value="唐山">唐山</option>
+		</select>
+		<br><br>
+		<input type="submit">
+	</form>
+	<form>
+	输入多行文本
+		<textarea name="message" rows="10" cols="30">
+			输入多行文本
+		</textarea>
+	</form>
+	<form >
+	个人描述：
+		<input type="checkbox" name="vehicle" value="Bike">yundong
+		<br>
+		<input type="checkbox" name="vehicle" value="Car">yishu 
+		<br><br>
+		
+	</form> 
+	<p>版权所有©</p>	
+	
+</body>
+</html>
